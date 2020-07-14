@@ -1,5 +1,5 @@
 # OccInpFlow
-This is the code for our paper: OccInpFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning[arxiv](https://arxiv.org/abs/2006.16637)
+This is the code for our paper: OccInpFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning [[arxiv](https://arxiv.org/abs/2006.16637)]
 
 # Dataset
 ## KITTI
