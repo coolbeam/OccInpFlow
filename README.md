@@ -26,4 +26,4 @@ This repository includes(is coming):
 
     
 ## Acknowledgement
-Part of our codes are adapted from [IRR-PWC](https://github.com/visinf/irr), [UnFlow](https://github.com/simonmeister/UnFlow) and [ARFlow](https://github.com/lliuz/ARFlow) , we thank the authors for their contributions.
+Part of our codes are adapted from [IRR-PWC](https://github.com/visinf/irr) and [UnFlow](https://github.com/simonmeister/UnFlow), we thank the authors for their contributions.
