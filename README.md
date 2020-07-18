@@ -23,7 +23,6 @@ This repository includes(is coming):
 - inferring scripts for several benchmarks; and 
 - pretrain models. 
 
-Code has been tested with Python 3.6 and MXNet 1.5.
 
     
 ## Acknowledgement
